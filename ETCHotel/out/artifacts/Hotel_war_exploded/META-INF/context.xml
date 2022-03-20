@@ -1,0 +1,11 @@
+<Context>
+    <Resource
+            name="jdbc/hotel"
+            auth="Container"
+            type="javax.sql.DataSource"
+            username="root" password="qazxswedc"
+            driverClassName="com.mysql.cj.jdbc.Driver"
+            url="jdbc:mysql://localhost/hotel?useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=Europe/Minsk&amp;autoReconnect=true&amp;useSSL=false"
+            maxActive="10"
+    />
+</Context>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="org-apache-commons-logging">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../LIB/org-apache-commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LIB/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LIB/javax.xml.bind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LIB/tomcat-catalina-8.0.0-rc3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LIB/log4j-api-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LIB/lombok-1.18.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../LIB/mysql-connector-java-8.0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
